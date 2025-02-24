@@ -14,6 +14,16 @@ Implements an AI-powered assistant (AutoGen) to handle user queries
 
 Accepts stock ticker symbols as input from users
 
+## Clone the Repository
+
+To get a copy of this project on your local machine, run the following command:
+
+```
+git clone https://github.com/your-username/your-repository.git
+```
+
+Replace `your-username` and `your-repository` with your actual GitHub details 
+
 ## Installation
 
 To run this project, make sure you have Python installed along with the required dependencies:
