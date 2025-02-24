@@ -44,8 +44,15 @@ Latest AAPL stock price: $150.75
 - README.md  # Documentation for setup and usage
 ```
 ## Author
-
 Khushal joshi
+
+## Contact
+```
+Khushalj2003@gmail.com
+```
+```
+9209064618
+```
 
 ## License
 
