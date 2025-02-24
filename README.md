@@ -18,7 +18,7 @@ Accepts stock ticker symbols as input from users
 
 To run this project, make sure you have Python installed along with the required dependencies:
 ```
-pip install yfinance autogen matplotlib
+pip install yfinance autogen matplotlib seaborn
 ```
 
 ## Usage
